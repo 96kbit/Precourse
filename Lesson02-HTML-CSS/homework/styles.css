@@ -1,0 +1,21 @@
+
+h1 {
+  color: grey
+}
+
+img {
+ width: 400px;
+
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: wheat;
+  padding:50px;
+  border: dashed 5px burlywood;
+  }
+
+#spanId {
+margin:50px;
+}
